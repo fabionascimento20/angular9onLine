@@ -1,3 +1,2 @@
 /* Add application styles & imports to this file! */
-url('https://unpkg.com/bootstrap/dist/css/bootstrap.min.css');
-
+@import '~bootstrap/dist/css/bootstrap.min.css';
